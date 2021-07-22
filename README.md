@@ -1,5 +1,5 @@
 # Tribute-Page
-Made a simple Tribute Page Using Html And CSS
+Made a simple Non-Responsive Tribute Page Using Html And CSS
 
 This tribute page is an example of a basic HTML & CSS Code :)
 
